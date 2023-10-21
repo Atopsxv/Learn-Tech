@@ -28,7 +28,7 @@ A useful way to help structure the things ive learnt in my journey that I think 
 9.
 
 
- 10.
+10.
 
 
 
