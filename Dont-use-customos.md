@@ -1,3 +1,26 @@
-# Why It is not recommended to use a custom os and what to do about it?
+- # Why Its not recommended to use a custom os and what can you do to replace one because stock windows sucks???
 
-## Using someone else's custom OS is not recommended due to safety concerns. Instead follow [Amit's PC tuning guide](https://github.com/amitxv/PC-Tuning) for enhanced security and reliability as a custom os can contain malicious activity. This can lead to stolen data or damage to pc that cant be detected by virus scans no matter how well its designed as it comes built into the iso image. (I DID NOT HELP OR CONTRIBUTE TO THE GUIDE) I just wish more people would read and follow it step by step as it has help me so much and will help others no matter what you intend to use your windows for while maintaining performance and compatibility. I am not one of those people who thinks they know everything or is against everything because im not as I was once a custom os user aswell but I wanted to share my experience from starting off as a custom os user to realise that they are not safe and found this guide to help me so much to this day.
+
+
+
+## Using someone else's custom OS is not recommended due to safety concerns like containing malicious activity. This can lead to stolen data or damage to pc that cant be detected by virus scans no matter how well its designed as it comes built into the iso image. The main reason why you should create your own windows os is its much safer & more suited for your needs no matter what you intend to use it for. Another reason is if you have an issue in your windows or error you would know how to fix it. 
+
+
+
+
+- ## Why its not safe to use a custom os?
+
+
+
+  
+- ## So what can you do about it as stock windows sucks.
+
+
+
+
+I am not one of those people who thinks they know everything or is against everything because im not as I was once a custom os user aswell but I wanted to share my experience from starting off as a custom os user to realise that they can not be safe well how would you know whats inside the iso image.
+
+
+
+
+- ##
