@@ -5,7 +5,7 @@ Useful information I think (LET ME KNOW HOW I CAN IMPROVE IT AS THAT WOULD BE VE
 
 2.
 
-3. Why its not recommended to use someone elses custom OS for these [reasons.](/Dont-use-customos.md) Instead follow Amits PC Tuning guide to create your own windows as an alternative. I DIDNT CONTRIBUTE ITS JUST AN AMAZING GUIDE! From my experience.
+## Why its not recommended to use someone elses custom OS for these [reasons.](/Dont-use-customos.md) Instead follow Amits PC Tuning guide to create your own windows as an alternative. I DIDNT CONTRIBUTE ITS JUST AN AMAZING GUIDE! From my experience.
 
 4.
 
