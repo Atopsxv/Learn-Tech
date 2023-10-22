@@ -1,4 +1,3 @@
-```md
 # Useful-Info
 
 > [!NOTE]
