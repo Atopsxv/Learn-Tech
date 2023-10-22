@@ -1,4 +1,4 @@
-- # Why Its not recommended to use a custom os and what can you do to replace one because stock windows sucks???
+# Why Its not recommended to use a custom os and what can you do to replace one because stock windows sucks???
 
 
 
