@@ -9,6 +9,3 @@
 - I am not one of those people who thinks they know everything or is against everything because im not as I was once a custom os user aswell but I wanted to share my experience from starting off as a custom os user to realise that they can not be safe well how would you know whats inside the iso image.
 
 
-
-
-- ##
