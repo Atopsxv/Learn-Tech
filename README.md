@@ -1,7 +1,7 @@
 # Useful-Info
 
 > [!NOTE]
-> Let me know how I can improve it as that would be very helpful! 
+> Let me know how I can improve the repository as that would be very helpful! 
 > This is meant to be a learning list and will get updated when ever.
 
 - Being as minimal as possible by removing unnecessary apps, folders from your system & reducing code in scripts, websites, for working on every project I think. Thats all I think about (Being as lightweight as possible)
