@@ -1,7 +1,7 @@
 # Useful-Info
 
 > [!NOTE]
-Your feedback on improving this repository is highly valuable! This is intended to be an evolving resource for learning and will be updated regularly.
+Your feedback on improving this repository is highly valuable! This is intended to be an evolving source for device learning and will be updated regularly.
 
 - To enhance system performance removing unnecessary apps and folders will help keep your system lightweight & not bloated.
 
