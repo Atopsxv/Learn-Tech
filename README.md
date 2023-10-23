@@ -9,4 +9,4 @@
 - Why you shouldnt use someone elses custom OS for these [reasons.](/Dont-use-customos.md)
     Instead the best solution is to create your own with [Amits PC Tuning Guide.](https://github.com/amitxv/PC-Tuning) If the guide is to complex use [AtlasOS](https://atlasos.net) as its used by many users. [Atlas Install page.](https://docs.atlasos.net/getting-started/installation/)
 
-- How to debloat your Android by [ChrisTitusTech](https://youtu.be/MFbXFG2xDJI?si=MPmXAK_FOMqV2hZP) Only works for android phones and perhaps google pixel but not Apple I dont think.
+- How to debloat your Android by [ChrisTitusTech.](https://youtu.be/MFbXFG2xDJI?si=MPmXAK_FOMqV2hZP) Only works for android phones and perhaps google pixel but not Apple I dont think.
