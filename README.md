@@ -7,8 +7,7 @@
 - Being as minimal as possible by removing unnecessary apps, folders from your system & reducing code in scripts, websites, for working on every project I think. Thats all I think about (Being as lightweight as possible)
 
 - Why you shouldnt use someone elses custom OS for these [reasons.](/Dont-use-customos.md)
-    Instead follow [Amits PC Tuning guide](https://github.com/amitxv/PC-Tuning) to create your own custom windows.<br> 
-    I DIDNT CONTRIBUTE ITS JUST AN AMAZING GUIDE! From my experience much safer & more suited for your needs no matter what you intend to use it for.
+    Instead the best solution is to create your own with [Amits PC Tuning Guide](https://github.com/amitxv/PC-Tuning) Or if you cant follow the guide & its to complex use Atlas os.
 
 - Always favor wired over wireless with any device due to powersaving features. (AMITS WORDS)
 
