@@ -7,7 +7,7 @@
 - Being as minimal as possible by removing unnecessary apps, folders from your system (Being as lightweight as possible)
 
 - Why you shouldnt use someone elses custom OS for these [reasons.](/Dont-use-customos.md)
-    Instead the best solution is to create your own with [Amits PC Tuning Guide.](https://github.com/amitxv/PC-Tuning) If the guide is to complex use [AtlasOS](https://atlasos.net) as its used by many users. [setup page.](https://docs.atlasos.net/getting-started/installation/)
+    Instead the best solution is to create your own with [Amits PC Tuning Guide.](https://github.com/amitxv/PC-Tuning) If the guide is to complex use [AtlasOS](https://atlasos.net) as its used by many users. [Atlas Install page.](https://docs.atlasos.net/getting-started/installation/)
 
 - Always favor wired over wireless with any device due to powersaving features. (AMITS WORDS)
 
