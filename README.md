@@ -7,4 +7,4 @@ Your feedback on improving this repository is highly valuable! This is intended 
 
 - Avoid using custom OSes created by others for the [following reasons & what you can do to replace one as normal windows sucks.](/Dont-use-customos.md)
 
-- If you have an Android device, ChrisTitusTech provides a guide on debloating your android os. It's important to note that this method is specifically designed for Android phones and may not be compatible with Apple devices fine out.
+- Debloating your phone: ChrisTitusTech provides a guide on debloating & making the perfect phone. It's important to note that this method is specifically designed for Android phones and may not be compatible with Apple devices fine out.
