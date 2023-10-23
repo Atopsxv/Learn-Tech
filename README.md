@@ -1,10 +1,9 @@
 # Useful-Info
 
-> [!NOTE]
-> Let me know how I can improve the repository as that would be very helpful! 
-> This is meant to be a learning list and will get updated when ever.
+[!NOTE]
+Your feedback on improving this repository is highly valuable! This is intended to be an evolving resource for learning and will be updated regularly.
 
-- Being as minimal as possible by removing unnecessary apps, folders from your system (Being as lightweight as possible results better performance)
+- To enhance system performance removing unnecessary apps and folders will help keep your system lightweight & not bloated.
 
 - Why you shouldnt use someone elses custom OS for these [reasons.](/Dont-use-customos.md)
     Instead the best solution is to create your own with [Amits PC Tuning Guide.](https://github.com/amitxv/PC-Tuning) If the guide is to complex use [AtlasOS](https://atlasos.net) as its used by many users. [Atlas Install page.](https://docs.atlasos.net/getting-started/installation/)
