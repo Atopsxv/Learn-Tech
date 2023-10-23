@@ -7,8 +7,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Why avoid using random custom OSes & what you can do as normal windows sucks.](/Dont-use-customos.md)
 
-- [Debloating & having the perfect phone]() by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) It's important to note that this method is specifically designed for Android phones and may not be compatible with Apple phones. Find out.
-
+- [Debloating & having the perfect phone]() by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) Requirements: Read the links that Chris provides in the vid description.
 
 
 
