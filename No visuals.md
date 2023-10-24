@@ -6,9 +6,17 @@
 
 - Testing if these 3 services disabled allows cmd to be visible.
 
-- When you have closed the game. Press control + R then type [cmd]() & click enter. In command prompt type [shutdown.exe /r /t 0]() THIS RESTARTS PC!
+- Method 1 to fix the goofy look:
+1. When you have closed the game Press control + R type [cmd]() & click enter.
+2. In command prompt type [shutdown.exe /r /t 0]() THIS RESTARTS PC!
+3. After boot it will be back to normal.
 
-- Another mthod instead of restarting pc is by press control + shift + esc to open task manager. then click on file then run new service. Type [explorer.exe]() & Enter. Do the same for the other 2 services. Find name for them i need to.
+- Method 2 instead of restarting pc:
+1. Press control + shift + esc to open task manager.
+2. Navigate to the top, click on file, run new service.
+3. Type [explorer.exe,]() then enter.
+4. Do the same for the other 2 services. Find name for them i need to.
+
 
 1. Windows explorer 
 
