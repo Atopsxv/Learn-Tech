@@ -1,4 +1,4 @@
-# Being real goofy inside windows part 1.
+# Being real goofy with windows part 1.
 > [!NOTE]
 > Again Please provide feedback its super valuable & BE HONEST ABOUT IT. Thanks.
 
