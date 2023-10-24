@@ -17,7 +17,7 @@
 3. Type [explorer.exe,]() then enter.
 4. Do the same for the other 2 services. Find name for them i need to.
 
-
+- The 3 windows services
 1. Windows explorer 
 
 2.
