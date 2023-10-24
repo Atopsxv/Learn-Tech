@@ -1,6 +1,8 @@
 # Being real goofy inside windows.
+> [!NOTE]
+> Again Please provide feedback its super valuable & BE HONEST ABOUT IT. Thanks.
 
-- Services that should be stopped for extra goofyness aka performance. Make script to disable the 3 windows processors. Run script only when game is opened. DONT RUN SCRIPT WHEN MULTI TASKING!
+- Services that should be stopped for extra goofyness aka performance. Make script named Goofy disable & Goofy Enable for the 3 windows processors. Run script only when game is opened. DONT RUN SCRIPT WHEN MULTI TASKING!
 
 - Testing if these 3 services disabled allows cmd to be visible.
 
