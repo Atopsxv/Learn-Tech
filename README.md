@@ -5,7 +5,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Enhancing system performance can be achieved by decluttering your system also known as debloating, which involves removing unnecessary apps, folders, & background processors to a point. This helps maintain a lightweight & efficient system.
 
-- Windows vs linux? ofc linux not even debatable. Windows sucks but good for compatibility.
+- Windows vs Linux? ofc linux not even debatable. Windows sucks but good for compatibility.
 
 - [Why you should avoid using random custom OSes & what can you do?](avoid-customos-link.md)
 
