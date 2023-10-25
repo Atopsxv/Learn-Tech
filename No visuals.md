@@ -13,7 +13,7 @@
 
 - Method 2 instead of restarting pc:
 1. Press control + shift + esc to open task manager.
-2. Navigate to the top, click on file, run new service.
+2. Navigate to the top, click on file, run new task.
 3. Type [explorer.exe,]() then enter.
 4. Do the same for the other 2 services. Find name for them i need to.
 
