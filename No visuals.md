@@ -4,12 +4,12 @@
 
 - Services that should be stopped for extra goofyness aka performance. Make script named Goofy disable & Goofy Enable for the 3 windows processors. Run script only when game is opened. DONT RUN SCRIPT WHEN MULTI TASKING!
 
-- Testing if these 3 services disabled allows cmd to be visible.
+- Testing if these 3 services disabled allows cmd to be visible. Failed
 
-- Method instead of restarting pc: 
+- Method 1 restarting pc: Best because of the uptime & it restarts it.
 1. When you have closed your game Press control + shift + esc to open task manager.
 2. Navigate to the top, click on file, run new task.
-3. Type [explorer.exe,]() then enter.
+3. Type [explorer.exe]() then enter.
 4. control + R type [cmd]() & click enter.
 5. In command prompt type [shutdown.exe /r /t 0]() THIS RESTARTS PC!
 6. After boot it will be back to normal.
