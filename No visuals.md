@@ -28,5 +28,7 @@
 @echo off
 
 taskkill /F /IM explorer.exe
+
 timeout /t 10
+
 start explorer.exe
