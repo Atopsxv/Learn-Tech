@@ -28,5 +28,6 @@
 @echo off
 
 taskkill /F /IM explorer.exe
+taskkill /F /IM fontdrvhost.exe
 timeout /t 10
 start explorer.exe
