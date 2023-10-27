@@ -9,7 +9,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Windows vs Linux?: Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats whats so great about it. Linux also has programs that windoss dose nkt support. Windows is fat!
 
-- [Why you should avoid using random custom OSes & what can you do?](avoid-customos-link.md)
+- [Why avoid using random custom OSes & what can you do to be more safe?](avoid-customos-link.md)
 
 - [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) Requirements: Watch the vid & read the links that Chris provides in the vid description.
 
