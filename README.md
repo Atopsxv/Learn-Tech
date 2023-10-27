@@ -1,7 +1,7 @@
 # Useful-Info
 
 > [!NOTE]
-> Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
+Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
 
 - Enhancing system performance can be achieved by decluttering your system also known as debloating. This can be done by removing unnecessary apps, folders, & background processors to a certain point or system cant function. ONLY THE UNNECESSARY STUFF.
 
