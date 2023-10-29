@@ -13,7 +13,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Use a tool called [ventoy]() to boot multible isos off your usb. Use instead of any other iso file boot tool such as rufus as you need multiple usbs for rufus.
 
-- [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) Requirements: Watch the vid & read the links that Chris provides in the vid description.
+- [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech)
 
 
 
