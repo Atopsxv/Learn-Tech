@@ -9,7 +9,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Windows vs Linux?: Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats whats so great about it. Linux also has programs that windoss dose nkt support. Windows is fat!
 
-- [Why avoid using random custom OSes & what can you do to be more safe?](avoid-customos-link.md)
+- [Why avoid using unknown custom OSes & what can you do to be more safe?](avoid-customos-link.md)
 
 - Use a tool called [ventoy](https://www.ventoy.net) to boot (multible) isos off 1 usb. Here is a [guide](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what is it & how to set it up. Use instead of any other iso file boot tool such as rufus as you need multiple usbs for them. Ventoy on the other hand can boot multible isos with only 1 usb!
 
