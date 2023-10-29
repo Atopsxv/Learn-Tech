@@ -11,7 +11,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Why avoid using random custom OSes & what can you do to be more safe?](avoid-customos-link.md)
 
-- Use a tool called [ventoy](https://www.ventoy.net) to boot (multible) isos off 1 usb. Here is a [guide](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what is it & how to set it up. Use instead of any other iso file boot tool such as rufus as you need multiple usbs for them. Ventoy on the other hand can boot multible with only 1 usb!
+- Use a tool called [ventoy](https://www.ventoy.net) to boot (multible) isos off 1 usb. Here is a [guide](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what is it & how to set it up. Use instead of any other iso file boot tool such as rufus as you need multiple usbs for them. Ventoy on the other hand can boot multible isos with only 1 usb!
 
 - [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech)
 
