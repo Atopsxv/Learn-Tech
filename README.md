@@ -7,7 +7,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script) + Performance boost I guess. RESTART PC TO REVERT CHANGES.
 
-- Windows vs Linux?: Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats whats so great about it. Linux also has programs that windows dose not support. Windows is fat!
+- Windows vs Linux?: Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats whats so great about it. Linux also has programs that windows dose not support.   Windows is fat!
 
 - [Why avoid using unknown custom OSes & what can you do to be more safe?](avoid-customos-link.md)
 
