@@ -17,7 +17,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 # Guides
 
-> [!IMPORTANT]
+> [!NOTES]
 These guides where not created by me nor did I contribute. This is a good list of guides I personally found useful & amazing.
 
 - [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech)
