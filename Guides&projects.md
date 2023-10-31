@@ -7,7 +7,7 @@ These guides where not created by me nor did I contribute. This is a good list o
 
 - [Steam alternative](https://github.com/Aetopia/NoSteamWebHelper) to steamwebhelper processors that chew resourses by [Aetopia.](https://github.com/Aetopia) Useful for people who play games on steam such as me.
 
-
+- [Making my custom windows + tune pc.](https://github.com/amitxv/PC-Tuning) HELPED ME SO MUCH but requires good understanding about windows.
 
 
 
