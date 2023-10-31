@@ -11,6 +11,8 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Why avoid using unknown custom OSes & what can you do to be more safe?](avoid-customos-link.md)
 
+- [Projects & Guides,]() NOT MINE NOR DID I CONTRIBUTE THEY HAVE JUST HELPED ME!
+
 - Use a tool called [ventoy](https://www.ventoy.net) to boot (multible isos) with 1 usb. Here is a [guide](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what is it & how to set it up. Use instead of any other iso file boot tool such as rufus or etcher as you need multiple usbs for 1 iso file to be booted. Keep in mind it depends on the size of the usb aswell.
 
 - [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech)
