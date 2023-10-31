@@ -9,7 +9,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Windows vs Linux?: Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats whats so great about it. Linux also has programs that windows dose not support. (Windows is fat!)
 
-- [Why avoid using unknown custom OSes & what can you do to be more safe?](avoid-customos-link.md)
+- [The truth about unknown custom OSes & What you should do?](avoid-customos-link.md)
 
 - [Guides & Projects.](Guides&projects.md) NOT MINE NOR DID I CONTRIBUTE THEY HAVE JUST HELPED ME & ARE TRULY AMAZING!
 
