@@ -13,7 +13,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Guides & Projects](Guides&projects.md). NOT MINE NOR DID I CONTRIBUTE THEY HAVE JUST HELPED ME & ARE TRULY AMAZING!
 
-- [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script). READ THROUGH BEFORE PROCEED. Made by me.
+- [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script). READ BEFORE PROCEED! Made by me.
 
 
 
