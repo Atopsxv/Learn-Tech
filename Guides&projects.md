@@ -3,9 +3,9 @@
 > [!NOTE]
 These guides where not created by me nor did I contribute. This is a good list of guides I personally found useful & amazing.
 
-- [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) Helped barttery life on my android A LOT.
+- [Debloating & having the perfect phone.](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) Made by [ChrisTitusTech.](https://youtube.com/ChrisTitusTech) Helped battery life on my android A LOT.
 
-- [Steam alternative](https://github.com/Aetopia/NoSteamWebHelper) to steamwebhelper processors that chew resourses by [Aetopia.](https://github.com/Aetopia) Useful for people who play games on steam such as me.
+- [Steam alternative](https://github.com/Aetopia/NoSteamWebHelper) to steamwebhelper processors that waste resourses while playing games as steam needs to be opened in the background to be able to. Made by [Aetopia.](https://github.com/Aetopia) Useful for people who play games on steam such as me.
 
 - [Making my custom windows + tune pc.](https://github.com/amitxv/PC-Tuning) HELPED ME SO MUCH but requires good understanding about windows.
 
