@@ -11,7 +11,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script). READ BEFORE PROCEED! Made by me.
 
-### Alternative programs for basic programs
+### Alternatives for basic programs.
 - Use a tool called [ventoy](https://www.ventoy.net) to boot (multible isos) with. Here is a [vid](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what it is & how to set it up. Use instead of any other iso file boot tool such as rufus or etcher as you need multiple usbs for 1 iso file to be booted. Keep in mind how much storage is on your usb.
 
 
