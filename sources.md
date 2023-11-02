@@ -7,15 +7,15 @@ These where not created by me nor did I contribute. This was intended to be a go
 
 - [Steam alternative](https://github.com/Aetopia/NoSteamWebHelper) to steamwebhelper processors that waste resourses while playing games as steam needs to be running in the background to be able to. Made by [Aetopia](https://github.com/Aetopia). Useful for people who play games on steam such as me.
 
-- []()
+- []
 
-- []()
+- []
 
-- []()
+- []
 
-- []()
+- []
 
-- []()
+- []
 
 
 
