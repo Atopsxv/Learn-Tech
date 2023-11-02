@@ -1,6 +1,3 @@
-> [!NOTE]
-> Why its not recommended to use a custom os and what can you do to replace it stock windows sucks???
-
 ### Why its not safe to use a custom os?
 - Using someone else's custom OS is not recommended due to safety concerns like containing malicious activity. This can lead to stolen data or damage to pc that cant be detected by virus scans no matter how well its designed as it comes built into the iso image.
 
