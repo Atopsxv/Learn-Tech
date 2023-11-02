@@ -1,5 +1,3 @@
-# Info
-
 > [!IMPORTANT]
 Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
 
