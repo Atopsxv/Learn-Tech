@@ -1,7 +1,6 @@
 # Guides
 
-> [!NOTE]
-These guides & projects where not created by me nor did I contribute. This was intended to be a good list I personally found useful & amazing.
+> [!IMPORTANT] These where not created by me nor did I contribute. This was intended to be a good list of links, guides etc I personally found useful & amazing.
 
 - [Debloating & having the perfect phone](https://youtu.be/MFbXFG2xDJI?si=1Dh7paiS4QnOl4OZ) by [ChrisTitusTech](https://youtube.com/ChrisTitusTech). This helped battery life on my android A LOT.
 
