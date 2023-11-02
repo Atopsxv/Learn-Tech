@@ -14,7 +14,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 ### Alternatives for basic programs.
 - Use a tool called [ventoy](https://www.ventoy.net) to boot (multible isos) with. Here is a [vid](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what it is & how to set it up. Use instead of any other iso file boot tool such as rufus or etcher as you need multiple usbs for 1 iso file to be booted. Keep in mind how much storage is on your usb.
 
-Legendary Launcher aka debloated epic games but requires commands.
+- [Legendary Launcher]() aka debloated Epic Games but requires commands.
 
 
 
