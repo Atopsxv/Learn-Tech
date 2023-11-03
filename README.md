@@ -2,7 +2,7 @@
 Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
 
 ### Performance Alternatives
--Enhancing performance for anything can be achieved by decluttering also known as debloating. This can be done by removing ONLY UNNECESSARY STUFF.
+- Enhancing performance for anything can be achieved by decluttering also known as debloating. This can be done by removing ONLY UNNECESSARY STUFF.
 
 ### Information
 - Windows vs Linux? Of course Linux is better thats not even a debate. Windows sucks for performance but has good compatibility for some programs that linux dose not support. Linux supports almost anything hardware based because of how lightweight it is. Thats one of the beauty's about linux + Linux has some programs that windows dose not support. (Windows is fat) but if ur games support linux look more into it! I AM NOT SAYING WINDOWS SUCKS I use both Windows & Linux thats just my opinion about both.
