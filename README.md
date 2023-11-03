@@ -3,7 +3,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Enhancing performance for anything can be achieved by decluttering also known as debloating. This can be done by removing ONLY UNNECESSARY STUFF.
 
-- Windows vs Linux? Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is thats the beauty about it. Linux also has programs that windows dose not support. (Windows is fat for gaming) but if ur games support linux look more into it! I AM NOT SAYING WINDOWS SUCKS I still use windows thats just my opinion about both.
+- Windows vs Linux? Of course linux thats not even debatable. Windows sucks for performance but good for compatibility. Linux supports almost anything hardware based because of how lightweight it is. Thats one of the beauty's about linux + Linux has some programs that windows dose not support. (Windows is fat) but if ur games support linux look more into it! I AM NOT SAYING WINDOWS SUCKS I use both Windows & Linux thats just my opinion about both.
 
 - [The truth about unknown custom OSes & What you should do?](custom-windows-info.md)
 
