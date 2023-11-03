@@ -5,7 +5,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - Windows vs Linux? Of course Linux thats not even a question. Windows sucks for performance but good compatibility for some programs that linux dose not support. Linux supports almost anything hardware based because of how lightweight it is. Thats one of the beauty's about linux + Linux has some programs that windows dose not support. (Windows is fat) but if ur games support linux look more into it! I AM NOT SAYING WINDOWS SUCKS I use both Windows & Linux thats just my opinion about both.
 
-- [The truth about unknown custom OSes & What you should do?](custom-windows-info.md)
+- [The truth about unknown custom OSes & What you should do?](avoid-customoses.md)
 
 - [Useful sources](sources.md). NOT MINE NOR DID I CONTRIBUTE THEY JUST HELPED ME & ARE TRULY AMAZING!
 
