@@ -16,7 +16,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Legendary Launcher]() aka debloated Epic Games but requires commands with cmd to use it.
 
-- Best browser right now in my opinion is [Thorium]() because of how well its made & it has great compatibility support. Its also ChrisTitusTech approved. [video](https://youtu.be/naDYUVFs1-8?si=gVps1EWe8VKC8CYj) of him explaining it.
+- Best browser right now in my opinion is [Thorium]() because of how well its made & it has great compatibility support.
 
 
 
