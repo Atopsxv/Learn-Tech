@@ -4,7 +4,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 ### Performance
 - Enhancing performance for anything can be achieved by decluttering also known as debloating. This can be done by removing ONLY UNNECESSARY STUFF. For example in my github instead ofnusing the word and I use & as it uses less characters.
 
-Probably one of the best ways to achieve performance is by overclocking your hardware! 
+- Probably one of the best ways to achieve performance is by overclocking your hardware! 
 
 ### Maintenance
 
