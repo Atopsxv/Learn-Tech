@@ -21,7 +21,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [The truth about unknown custom OSes & What you should do?](avoid-customoses.md)
 
-- [Useful sources](sources.md). NOT MINE NOR DID I CONTRIBUTE THEY JUST HELPED ME & ARE TRULY AMAZING!
+- [Useful sources & guides](sources.md). NOT MINE NOR DID I CONTRIBUTE THEY JUST HELPED ME & ARE TRULY AMAZING!
 
 ### My goOfY projects
 - [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script). READ BEFORE PROCEED! Made by me.
