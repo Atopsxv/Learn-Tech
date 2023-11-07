@@ -7,7 +7,7 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 - Probably one of the best ways to achieve performance is by overclocking your hardware! This may sound scary but it really isnt as long as you dont clock it to high.
 
 ### Maintenance
-
+- Cleaning dust out of your pc is very important if 
 
 
 
