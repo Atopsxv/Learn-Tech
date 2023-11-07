@@ -26,8 +26,8 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 ### My goOfY projects
 - [Being GooFy with windows part 1](https://github.com/Atopsxv/Learn-Tech/releases/GooFy-aH-Script). READ BEFORE PROCEED! Made by me.
 
-### Alternatives for programs
-- Best browser right now has to be [Thorium](https://thorium.rocks/) because of how well its made & its great compatibility support. Ive tested myself & got other people to test & noticed a faster difference in website load times. Just an amazing browser try it out!
+### Alternative programs
+- Best browser right now has to be [Thorium](https://thorium.rocks/) because of how well its made & its great compatibility support. Ive tested myself & got other people to test & we noticed faster website load times. Just an amazing browser try it out!
 
 - Use [ventoy](https://www.ventoy.net) to boot (multible isos) with instead of any other iso file boot tool such as rufus or etcher as you need multiple usbs for 1 iso file to be booted. Here is a [vid](https://youtu.be/EgcC_40wyKs?si=RFZxsYGy8mXAjlnI) on what it is & how to set it up. Keep in mind how much storage is on your usb.
 
