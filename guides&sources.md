@@ -6,7 +6,7 @@ These where not created by me nor did I contribute. This was intended to be a go
 
 - [Steam alternative](https://github.com/Aetopia/NoSteamWebHelper) to steamwebhelper processors that waste resourses while playing games as steam needs to be running in the background. Made by [Aetopia](https://github.com/Aetopia). Useful for people who play games on steam such as me.
 
-- Windows XP [ISO FILE](https://archive.org/details/WinXPProSP3x86) Used this in my VM & it worked flawlessly. Activation key in description of site.
+- Windows XP [ISO FILE](https://archive.org/details/WinXPProSP3x86) Used this in a VM & it worked flawlessly. Activation key in description of site.
 
 - []()
 
