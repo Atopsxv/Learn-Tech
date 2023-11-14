@@ -2,7 +2,7 @@
 Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
 
 ### Performance
-- Enhancing performance can be achieved by decluttering also known as debloating. This can be done by removing unnecessary stuff such as programs, folders etc.
+- Enhancing performance can be achieved by decluttering your system also known as debloating. This can be done by removing unnecessary stuff such as programs, folders etc.
 
 - Probably one of the best ways to achieve performance is by overclocking your hardware! This may sound scary but it really isnt as long as you dont clock it to high. Although it can shorten the life span of your hardware but is an amazing way to get performance if done correctly.
 
