@@ -17,4 +17,4 @@ Your feedback on improving this repository is highly valuable & Be honest with i
 
 - [Useful sources, guides, links etc](guides&sources.md). NOT MINE NOR DID I CONTRIBUTE THEY JUST HELPED ME & ARE TRULY AMAZING!
 
-### [Alternative programs](#Alternative-programs.md)
+### [Alternative programs](Alternative-programs.md)
