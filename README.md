@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning.
+Your feedback on improving this repository is highly valuable & Be honest with it! This is intended to be an evolving source for tech learning. DM me your feedback user [atopsxv].
 
 ### Performance
 - Enhancing performance can be achieved by decluttering your system also known as debloating. This can be done by removing unnecessary stuff such as programs, folders etc.
